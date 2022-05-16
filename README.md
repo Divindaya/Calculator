@@ -1,2 +1,2 @@
 # Calculator
- Calculator app coded in javascript, html, css that computes +, -, /, * functions
+ Calculator app coded in javascript, html, css that computes +, -, /, *, and ** functions
